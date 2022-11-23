@@ -27,7 +27,4 @@ POST 요청 형식
     "order": "dislike"  
 }  
 
-
-<h1>프론트</h1>
-
 ...
